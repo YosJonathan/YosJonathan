@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn-icons-png.flaticon.com/512/10817/10817310.png"  />
+  <img height="150" src="https://cdn-icons-png.flaticon.com/32/10817/10817310.png"  />
 </div>
 
 # 💫 About Me:
